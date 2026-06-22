@@ -1,2 +1,22 @@
-# royal-spice-restaurant-website
-A modern and responsive Indian restaurant website featuring an interactive menu, food gallery, testimonials, dark mode, and mobile-friendly design built with HTML, CSS, and JavaScript.
+# Royal Spice Restaurant Website
+
+A premium Indian restaurant website built using HTML, CSS, and JavaScript.
+
+Features:
+- Responsive Design
+- Interactive Menu
+- Food Gallery
+- Testimonials
+- Contact Section
+- Dark Mode
+
+Technologies:
+- HTML5
+- CSS3
+- JavaScript
+
+Live Demo:
+<your-link>
+
+Screenshots:
+<screenshots>
